@@ -10,5 +10,8 @@
 - RUN <code>npm run build</code>, this command will create a build folder for you
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 
+ScreenShot
+
+![image](https://user-images.githubusercontent.com/47269441/134047993-9436929e-7953-44e7-a241-91837822d085.png)
 
 
